@@ -6,5 +6,3 @@ The COMPILER used - HI-TECH C COMPILER for PIC 10,12,16 MCU 9.70
 The IDE used is - MP LAB v8.66
 
 Simulation software is PROTEUS 8 PROFESSIONAL
-
-pic
